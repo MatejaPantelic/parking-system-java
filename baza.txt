@@ -1,0 +1,6 @@
+[proba.Korisnik@31b870bc]
+proba.Korisnik@4ee26b7b
+Ime: null	Prezime: null	Pol: false	Telefon: null	Korisnicko ime: g	Lozinka: g	Broj racuna: f	Vozilo: null null	Registracija: null
+Ime: Mateja	Prezime: Pantelic	Pol: true	Telefon: 063/3433243	Korisnicko ime: mat	Lozinka: 123	Broj racuna: 3421 4532 5323	Vozilo: null null	Registracija: null
+Ime: k	Prezime: nn	Pol: true	Telefon: 456	Korisnicko ime: nikola	Lozinka: 123	Broj racuna: df	Vozilo: null null	Registracija: null
+Ime: Drina	Prezime: Pantelic	Pol: false	Telefon: 063/2829404	Korisnicko ime: drina	Lozinka: 1975	Broj racuna: 3333 5345 3245	Vozilo: null null	Registracija: null
